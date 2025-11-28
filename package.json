@@ -2,7 +2,7 @@
   "name": "nextjs16-typescript-boilerplate",
   "version": "1.0.0",
   "private": false,
-  "description": "Production-ready Next.js 16 boilerplate with TypeScript, Tailwind CSS, ESLint, Prettier, and best practices",
+  "description": "Production-ready Next.js 16 boilerplate with TypeScript, Tailwind CSS and best practices",
   "author": "Your Name",
   "license": "MIT",
   "repository": {
@@ -14,8 +14,7 @@
     "nextjs16",
     "typescript",
     "tailwindcss",
-    "boilerplate",
-    "starter-template"
+    "boilerplate"
   ],
   "scripts": {
     "dev": "next dev",

@@ -9,13 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/vondokobi007/nextjs16-typescript-boilerplate.git"
   },
-  "keywords": [
-    "nextjs",
-    "nextjs16",
-    "typescript",
-    "tailwindcss",
-    "boilerplate"
-  ],
+  "keywords": ["nextjs", "nextjs16", "typescript", "tailwindcss", "boilerplate"],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

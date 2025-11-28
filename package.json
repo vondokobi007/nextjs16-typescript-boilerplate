@@ -1,0 +1,44 @@
+{
+{
+  "name": "nextjs16-typescript-boilerplate",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Production-ready Next.js 16 boilerplate with TypeScript, Tailwind CSS, ESLint, Prettier, and best practices",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vondokobi007/nextjs16-typescript-boilerplate.git"
+  },
+  "keywords": [
+    "nextjs",
+    "nextjs16",
+    "typescript",
+    "tailwindcss",
+    "boilerplate",
+    "starter-template"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.0.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "16.0.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.2"
+  }
+}
